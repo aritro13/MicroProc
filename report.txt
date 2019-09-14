@@ -1,5 +1,0 @@
-1. What is assembler ?
-2. What is compiler ?
-3. What are assembly language directives.
-4. Advantages of assembly language directives.
-5. What is mixed language programming
